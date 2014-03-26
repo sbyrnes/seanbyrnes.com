@@ -3,11 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Sean Byrnes -- Free Agent -- @sbyrnes
 
 # TECHNOLOGY COLOPHON
 
